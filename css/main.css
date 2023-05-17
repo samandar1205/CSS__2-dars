@@ -1,0 +1,52 @@
+body{
+    background-color: red;
+    background-image: url("../rasmlar/2.jpg");
+    background-repeat:no-repeat ;/* repeat,no-repeat,repeat-x,repeat-y*/
+    background-size:50%;/*%, px,cover */
+    background-position: center 250px;
+}
+.texs{
+    color: white;
+    border: 5px solid white;
+   /* border-top-width:6px;
+    border-left-width: 7px;
+    border-bottom-width: 9px;
+    border-right-width: 10px;
+    border-top-style:double ;
+    border-left-style: dotted;
+    border-bottom-style: ridge ;
+    border-right-style: dashed;
+    border-top-color: green;
+    border-left-color: aqua;
+    border-bottom-color: brown;
+    border-right-color: deepskyblue;*/
+    text-align: center;
+    text-transform: none;
+    text-decoration: none;
+    letter-spacing: 5px;
+    word-spacing: 12px;
+    line-height: 15px;
+
+}
+
+.block{
+    background-color: aqua;
+    width: 500px;
+    height: 200px;
+    /* min-width: 50px;
+     min-height: 50px;
+     max-height: 500px;
+     max-width: 200px;
+     margin:50px 150px  25px 10px;
+     margin-top:50px ;
+     margin-right: 150px;
+     margin-bottom: 25px;
+     margin-left: 10px;*/
+    margin:100px auto ;
+    padding: 50px 100px 50px 100px;
+   /* padding-top: 50px;
+    padding-right:150px ;
+    padding-bottom:25px ;
+    padding-left:10px ;*/
+    box-sizing: border-box;+z
+}
